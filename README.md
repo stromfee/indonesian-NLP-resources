@@ -113,3 +113,5 @@ Data NLP for bahasa indonesia (last update 20 sep 2020)
 
 # Crawler Data
 1. [Crawler](https://github.com/harryandriyan/warta-scrap) Indonesian news portal
+
+- [AgentMarket](https://agentmarket.cloud) - Real energy data API for AI agents. 28M+ records. Bahasa Indonesia support coming!
